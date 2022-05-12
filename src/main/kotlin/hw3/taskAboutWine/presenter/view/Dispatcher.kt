@@ -1,6 +1,6 @@
-package hw2.taskAboutWine.view
+package hw3.taskAboutWine.presenter.view
 
-import hw2.taskAboutWine.presenter.WineAgingCalculationServiceImpl
+import hw3.taskAboutWine.presenter.WineAgingCalculationServiceImpl
 import java.lang.StringBuilder
 import java.time.LocalDate
 import java.time.Month
